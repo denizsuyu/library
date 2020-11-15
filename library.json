@@ -873,5 +873,33 @@
         "author": "Douglas Adams",
         "publisher": "Alfa",
         "numberOfPages": 868
+    },
+    {
+        "id": 126,
+        "name": "Franz Kafka - Seçme Eserleri",
+        "author": "Franz Kafka",
+        "publisher": "Yakamoz",
+        "numberOfPages": 511
+    },
+    {
+        "id": 127,
+        "name": "Sabahattin Ali - Seçme Eserleri",
+        "author": "Sabahattin Ali",
+        "publisher": "Yakamoz",
+        "numberOfPages": 560
+    },
+    {
+        "id": 128,
+        "name": "Stefan Zweig - Seçme Eserleri",
+        "author": "Stefan Zweig",
+        "publisher": "Yakamoz",
+        "numberOfPages": 320
+    },
+    {
+        "id": 129,
+        "name": "Stefan Zweig - Seçme Eserleri",
+        "author": "Stefan Zweig",
+        "publisher": "Yakamoz",
+        "numberOfPages": 456
     }
 ]
