@@ -901,5 +901,187 @@
         "author": "Stefan Zweig",
         "publisher": "Yakamoz",
         "numberOfPages": 456
+    },
+    {
+        "id": 130,
+        "name": "Taşrada Düğün Hazırlıkları",
+        "author": "Franz Kafka",
+        "publisher": "Maviçatı",
+        "numberOfPages": 39
+    },
+    {
+        "id": 131,
+        "name": "Bir Açlık Sanatçısı",
+        "author": "Franz Kafka",
+        "publisher": "Maviçatı",
+        "numberOfPages": 61
+    },
+    {
+        "id": 132,
+        "name": "İnsancıklar",
+        "author": "Dostoyevski",
+        "publisher": "Ren",
+        "numberOfPages": 160
+    },
+    {
+        "id": 133,
+        "name": "Dünyalar Savaşı",
+        "author": "H.G. Wells",
+        "publisher": "İndigo",
+        "numberOfPages": 243
+    },
+    {
+        "id": 134,
+        "name": "Görünmez Adam",
+        "author": "H.G. Wells",
+        "publisher": "İndigo",
+        "numberOfPages": 214
+    },
+    {
+        "id": 135,
+        "name": "Yeraltından Notlar",
+        "author": "Dostoyevski",
+        "publisher": "Kırmızı Kedi",
+        "numberOfPages": 152
+    },
+    {
+        "id": 136,
+        "name": "Üç Ölüm",
+        "author": "Tolstoy",
+        "publisher": "Kırmızı Kedi",
+        "numberOfPages": 89
+    },
+    {
+        "id": 137,
+        "name": "Bir Kardeş Cinayeti",
+        "author": "Franz Kafka",
+        "publisher": "Kırmızı Kedi",
+        "numberOfPages": 86
+    },
+    {
+        "id": 138,
+        "name": "Bir Köpeğin Araştırmaları",
+        "author": "Franz Kafka",
+        "publisher": "Kırmızı Kedi",
+        "numberOfPages": 52
+    },
+    {
+        "id": 139,
+        "name": "Ceza Sömürgesi",
+        "author": "Franz Kafka",
+        "publisher": "Kırmızı Kedi",
+        "numberOfPages": 40
+    },
+    {
+        "id": 140,
+        "name": "Ağrı Dağı Yolcusu Kalmasın",
+        "author": "H.G. Wells",
+        "publisher": "İthaki",
+        "numberOfPages": 82
+    },
+    {
+        "id": 141,
+        "name": "Uzaktan Kumandalı Kız",
+        "author": "James Tiptree, Jr.",
+        "publisher": "İthaki",
+        "numberOfPages": 70
+    },
+    {
+        "id": 142,
+        "name": "Beş Küçük Domuz",
+        "author": "Agatha Christie",
+        "publisher": "Altın Kitaplar",
+        "numberOfPages": 199
+    },
+    {
+        "id": 143,
+        "name": "Yarım Kalan Kalpler",
+        "author": "Marilyn Pappano",
+        "publisher": "Yakamoz",
+        "numberOfPages": 350
+    },
+    {
+        "id": 144,
+        "name": "Umut Dolu Yarınlar",
+        "author": "Marilyn Pappano",
+        "publisher": "Yakamoz",
+        "numberOfPages": 347
+    },
+    {
+        "id": 145,
+        "name": "Kanadı Kırık Sevdalar",
+        "author": "Marilyn Pappano",
+        "publisher": "Yakamoz",
+        "numberOfPages": 351
+    },
+    {
+        "id": 146,
+        "name": "Kelile ve Dimne",
+        "author": "Beydeba",
+        "publisher": "Venedik",
+        "numberOfPages": 159
+    },
+    {
+        "id": 147,
+        "name": "Araba Sevdası",
+        "author": "Recaizade Mahmut Ekrem",
+        "publisher": "Venedik",
+        "numberOfPages": 271
+    },
+    {
+        "id": 148,
+        "name": "İntibah",
+        "author": "Namık Kemal",
+        "publisher": "Venedik",
+        "numberOfPages": 191
+    },
+    {
+        "id": 149,
+        "name": "Felatun Bey İle Rakım Efendi",
+        "author": "Ahmet Mithat Efendi",
+        "publisher": "Venedik",
+        "numberOfPages": 189
+    },
+    {
+        "id": 150,
+        "name": "Gülistan",
+        "author": "Şeyh Sadi Şirazi",
+        "publisher": "Venedik",
+        "numberOfPages": 231
+    },
+    {
+        "id": 151,
+        "name": "Bostan",
+        "author": "Şeyh Sadi Şirazi",
+        "publisher": "Venedik",
+        "numberOfPages": 223
+    },
+    {
+        "id": 152,
+        "name": "Rüzgargülü",
+        "author": "Halil Cibran",
+        "publisher": "Venedik",
+        "numberOfPages": 43
+    },
+    {
+        "id": 153,
+        "name": "Tebessüm Ve Gözyaşı",
+        "author": "Halil Cibran",
+        "publisher": "Venedik",
+        "numberOfPages": 77
+    },
+    {
+        "id": 154,
+        "name": "Ermiş'in Bahçesi",
+        "author": "Halil Cibran",
+        "publisher": "Venedik",
+        "numberOfPages": 44
+    },
+    {
+        "id": 155,
+        "name": "Atomaltı Parçacıklar",
+        "author": "Steven Weinberg",
+        "publisher": "Tübitak",
+        "numberOfPages": 270
     }
 ]
