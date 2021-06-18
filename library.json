@@ -1083,5 +1083,33 @@
         "author": "Steven Weinberg",
         "publisher": "Tübitak",
         "numberOfPages": 270
+    },
+    {
+        "id": 156,
+        "name": "Selahaddin Eyyubi",
+        "author": "Alperen Bayrak",
+        "publisher": "Yediveren",
+        "numberOfPages": 414
+    },
+    {
+        "id": 157,
+        "name": "Atilla ve Hun İmparatorluğu",
+        "author": "Alperen Bayrak",
+        "publisher": "Yediveren",
+        "numberOfPages": 416
+    },
+    {
+        "id": 158,
+        "name": "Timur",
+        "author": "M. Turhan Tan",
+        "publisher": "Yediveren",
+        "numberOfPages": 471
+    },
+    {
+        "id": 159,
+        "name": "Cengiz Han",
+        "author": "M. Turhan Tan",
+        "publisher": "Yediveren",
+        "numberOfPages": 416
     }
 ]
