@@ -1111,5 +1111,61 @@
         "author": "M. Turhan Tan",
         "publisher": "Yediveren",
         "numberOfPages": 416
+    },
+    {
+        "id": 160,
+        "name": "The Invisible Man (english)",
+        "author": "Herbert George Wells",
+        "publisher": "MK Publications",
+        "numberOfPages": 176
+    },
+    {
+        "id": 161,
+        "name": "The Adventures Of Sherlock Holmes (english)",
+        "author": "Sir Arthur Conan Doyle",
+        "publisher": "MK Publications",
+        "numberOfPages": 328
+    },
+    {
+        "id": 162,
+        "name": "1984 (english)",
+        "author": "George Orwell",
+        "publisher": "MK Publications",
+        "numberOfPages": 320
+    },
+    {
+        "id": 163,
+        "name": "Sürgün Gezegeni",
+        "author": "Ursula K. Le Guin",
+        "publisher": "İthaki",
+        "numberOfPages": 142
+    },
+    {
+        "id": 164,
+        "name": "Snowden Dosyası",
+        "author": "Luke Harding",
+        "publisher": "Pegasus",
+        "numberOfPages": 317
+    },
+    {
+        "id": 165,
+        "name": "Sistem Hatası",
+        "author": "Edward Snowden",
+        "publisher": "Epsilon",
+        "numberOfPages": 380
+    },
+    {
+        "id": 166,
+        "name": "Öteki",
+        "author": "Fyodor Mihayloviç Dostoyevski",
+        "publisher": "Türkiye İş Bankası",
+        "numberOfPages": 188
+    },
+    {
+        "id": 167,
+        "name": "Henüz Vakit Varken Gülüm",
+        "author": "Nazım Hikmet",
+        "publisher": "Yapı Kredi",
+        "numberOfPages": 112
     }
 ]
