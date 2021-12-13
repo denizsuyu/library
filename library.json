@@ -1167,5 +1167,131 @@
         "author": "Nazım Hikmet",
         "publisher": "Yapı Kredi",
         "numberOfPages": 112
+    },
+    {
+        "id": 168,
+        "name": "Kadınlar Ülkesi",
+        "author": "Charlotte Perkins Gilman",
+        "publisher": "İthaki",
+        "numberOfPages": 209
+    },
+    {
+        "id": 169,
+        "name": "Doktor Moreau'nun Adası",
+        "author": "H.G. Wells",
+        "publisher": "İthaki",
+        "numberOfPages": 197
+    },
+    {
+        "id": 170,
+        "name": "Bir Mars Destanı",
+        "author": "Stanley G. Weinbaum",
+        "publisher": "İthaki",
+        "numberOfPages": 226
+    },
+    {
+        "id": 171,
+        "name": "Kıyamete Bir Milyar Yıl",
+        "author": "Arkadi ve Boris Strugatski",
+        "publisher": "İthaki",
+        "numberOfPages": 149
+    },
+    {
+        "id": 172,
+        "name": "R.U.R. - Rossum'un Uluslararası Robotları",
+        "author": "Karel Capek",
+        "publisher": "İthaki",
+        "numberOfPages": 126
+    },
+    {
+        "id": 173,
+        "name": "Biz",
+        "author": "Yevgeni Zamyatin",
+        "publisher": "İthaki",
+        "numberOfPages": 246
+    },
+    {
+        "id": 174,
+        "name": "Houston, Houston Duyuyor Musun?",
+        "author": "James Tiptree, JR.",
+        "publisher": "İthaki",
+        "numberOfPages": 89
+    },
+    {
+        "id": 175,
+        "name": "Carmilla",
+        "author": "J. Sheridan Le Fanu",
+        "publisher": "İthaki",
+        "numberOfPages": 111
+    },
+    {
+        "id": 176,
+        "name": "Dünya'nın Çığlığı",
+        "author": "Arthur Conan Doyle",
+        "publisher": "Ren",
+        "numberOfPages": 94
+    },
+    {
+        "id": 177,
+        "name": "Mutlak Peşinde",
+        "author": "Honore De Balzac",
+        "publisher": "Türkiye İş Bankası",
+        "numberOfPages": 212
+    },
+    {
+        "id": 178,
+        "name": "Toz",
+        "author": "Michael Marder",
+        "publisher": "İthaki",
+        "numberOfPages": 122
+    },
+    {
+        "id": 179,
+        "name": "Dr. Moreau'nun Adası",
+        "author": "H.G. Wells",
+        "publisher": "Ren",
+        "numberOfPages": 188
+    },
+    {
+        "id": 180,
+        "name": "Dr. Jekyll ve Mr. Hyde ve Diğer Fantastik Öyküler",
+        "author": "Robert Louis Stevenson",
+        "publisher": "Can",
+        "numberOfPages": 173
+    },
+    {
+        "id": 181,
+        "name": "Gulyabani",
+        "author": "Hüseyin Rahmi Gürpınar",
+        "publisher": "Panama",
+        "numberOfPages": 175
+    },
+    {
+        "id": 182,
+        "name": "Dede Korkut Hikayeleri",
+        "author": "Dede Korkut",
+        "publisher": "Panama",
+        "numberOfPages": 184
+    },
+    {
+        "id": 183,
+        "name": "Oyuk İğne",
+        "author": "Arsen Lüpen",
+        "publisher": "Venedik",
+        "numberOfPages": 230
+    },
+    {
+        "id": 184,
+        "name": "Herlock Holmes",
+        "author": "Arsen Lüpen",
+        "publisher": "Venedik",
+        "numberOfPages": 240
+    },
+    {
+        "id": 185,
+        "name": "Kibar Hırsız",
+        "author": "Arsen Lüpen",
+        "publisher": "Venedik",
+        "numberOfPages": 208
     }
 ]
